@@ -1,0 +1,32 @@
+body{
+    margin: 0px;    
+    padding: 0px;
+    background-color:antiquewhite;
+    color:rgb(248, 248, 248);
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2023/02/08/08/50/frequency-wave-7776034_960_720.jpg);   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100vh;
+
+}
+h1{
+    font-size: 60px;    
+    font-style: none; 
+    font-family: "Orbitron";
+    text-decoration: dotted;
+}
+input{
+    width: 85px;    
+    height: 60px;
+    font-size: 50px;
+    border-radius: 15px;
+    margin: 5px;
+    background-color: aliceblue;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: rgb(255, 251, 251);
+    cursor: pointer;
+}
